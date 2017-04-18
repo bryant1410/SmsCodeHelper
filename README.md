@@ -1,4 +1,4 @@
-#验证码助手 SmsCodeHelper
+# 验证码助手 SmsCodeHelper
 
 在手机接收到验证码短信的时候，自动浮现验证码，并自动复制验证码到用户的剪切板。当用户接收到短信验证码，只要长按验证码的输入框，粘贴验证码即可。
 
@@ -14,17 +14,17 @@
 <img src="/screenshots/s5.png" alt="screenshot" title="screenshot" width="270" height="486" />  <img src="/screenshots/s6.png" alt="screenshot" title="screenshot" width="270" height="486" />
 
 
-#源代码在 GPLv3 协议下发布
-###我们开源，做好设计，不乱使用权限，只求你如果喜欢，可以分享给你的朋友们，好东西需要分享才能让其健康成长，每一次分享都是我们的动力，非常感谢！
+# 源代码在 GPLv3 协议下发布
+### 我们开源，做好设计，不乱使用权限，只求你如果喜欢，可以分享给你的朋友们，好东西需要分享才能让其健康成长，每一次分享都是我们的动力，非常感谢！
 
 
-#下载 Download
+# 下载 Download
 
 Google Play：https://play.google.com/store/apps/details?id=me.drakeet.inmessage
 
 Fir：http://fir.im/codehelper
 
-#English introduction
+# English introduction
 SmsCodeHelper, is a new open source and light App.
 
 It can automatically emerge verification code when your phone  receives a text message contains a  verification code. And automatically copy the code to the user's clipboard. When the user receives the message verification code, just long press the EditText to paste the verification code.
